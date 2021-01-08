@@ -1,0 +1,62 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="未输入区域" />
+      <item value="未输入城市" />
+      <item value="收入积分" />
+      <item value="支出积分" />
+      <item value="当前积分" />
+      <item value="条件" />
+      <item value="验证码发送次数限制" />
+      <item value="验证码发送次数过多" />
+      <item value="待认证" />
+      <item value="认证已经通过" />
+      <item value="认证通过" />
+      <item value="booty music" />
+      <item value="booty" />
+      <item value="botty" />
+      <item value="积分提交成功" />
+      <item value="全部积分明细" />
+      <item value="积分支出列表" />
+      <item value="积分收入" />
+      <item value="已发放申请积分" />
+      <item value="已经驳回积分申请" />
+      <item value="已经发放积分" />
+      <item value="待发放积分" />
+      <item value="待发放" />
+      <item value="SubmitErtification" />
+      <item value="修改" />
+      <item value="xiugai" />
+      <item value="上传小票成功" />
+      <item value="申请状态" />
+      <item value="小票图片路径错误" />
+      <item value="用户名称或用户id错误" />
+      <item value="ticket" />
+      <item value="记录" />
+      <item value="消费记录" />
+      <item value="小票" />
+      <item value="票据" />
+      <item value="积分申请" />
+      <item value="upload" />
+      <item value="认证提交成功" />
+      <item value="认证正在审核中" />
+      <item value="该用户已经认证" />
+      <item value="提交认证" />
+      <item value="渠道" />
+      <item value="d地区" />
+      <item value="渠道名未填写" />
+      <item value="未输入省份" />
+      <item value="用户已认证登录" />
+      <item value="用户已认证，直接登录" />
+      <item value="&quot;认证驳回&quot;" />
+      <item value="待认证(未审核)" />
+      <item value="用户未提交认证" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
+      </map>
+    </option>
+  </component>
+</application>
