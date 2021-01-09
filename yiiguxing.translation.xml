@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="静态信息" />
+      <item value="前端需要的信息" />
       <item value="未输入区域" />
       <item value="未输入城市" />
       <item value="收入积分" />
@@ -49,8 +51,6 @@
       <item value="用户已认证登录" />
       <item value="用户已认证，直接登录" />
       <item value="&quot;认证驳回&quot;" />
-      <item value="待认证(未审核)" />
-      <item value="用户未提交认证" />
     </histories>
     <option name="languageScores">
       <map>
