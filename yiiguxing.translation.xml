@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.transaction.CannotCreateTransactionException: Could not open JDBC Connection for transaction; nested exception is java.sql.SQLException" />
       <item value="静态信息" />
       <item value="前端需要的信息" />
       <item value="未输入区域" />
@@ -50,12 +51,11 @@
       <item value="未输入省份" />
       <item value="用户已认证登录" />
       <item value="用户已认证，直接登录" />
-      <item value="&quot;认证驳回&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
