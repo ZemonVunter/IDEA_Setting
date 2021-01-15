@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'top.FlipCommunity.user.mapper.AdminMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)} 2021-01-15 19:02:31.697 INFO 14624 --- [ main] o.apache.catalina.core.StandardService : Stopping service [Tomcat]" />
       <item value="org.springframework.transaction.CannotCreateTransactionException: Could not open JDBC Connection for transaction; nested exception is java.sql.SQLException" />
       <item value="静态信息" />
       <item value="前端需要的信息" />
@@ -50,13 +51,15 @@
       <item value="渠道名未填写" />
       <item value="未输入省份" />
       <item value="用户已认证登录" />
-      <item value="用户已认证，直接登录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1610708566334" />
   </component>
 </application>
