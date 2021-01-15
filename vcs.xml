@@ -22,6 +22,10 @@
           <option name="url" value="http://t.pian-ai.com:9860/hc/points-mall.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ZemonVunter/FlipCommunity.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\" />
