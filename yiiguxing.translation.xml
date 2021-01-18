@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="568" />
+    <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="五位数递增" />
+      <item value="五位数" />
+      <item value="递增&#10;" />
       <item value="org.springframework.transaction.CannotCreateTransactionException: Could not open JDBC Connection for transaction; nested exception is java.sql.SQLException" />
       <item value="静态信息" />
       <item value="前端需要的信息" />
@@ -48,9 +54,6 @@
       <item value="渠道" />
       <item value="d地区" />
       <item value="渠道名未填写" />
-      <item value="未输入省份" />
-      <item value="用户已认证登录" />
-      <item value="用户已认证，直接登录" />
     </histories>
     <option name="languageScores">
       <map>
@@ -58,5 +61,8 @@
         <entry key="ENGLISH" value="13" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1610938388028" />
   </component>
 </application>
