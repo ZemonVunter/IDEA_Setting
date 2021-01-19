@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="568" />
+    <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="验证验证码&#10;&#10;" />
+      <item value="验证yan'zheng'ma&#10;" />
+      <item value="验证&#10;" />
+      <item value="验证烟瘴吗&#10;" />
+      <item value="验证养正吗&#10;" />
+      <item value="验&#10;" />
       <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'top.FlipCommunity.user.mapper.AdminMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)} 2021-01-15 19:02:31.697 INFO 14624 --- [ main] o.apache.catalina.core.StandardService : Stopping service [Tomcat]" />
       <item value="org.springframework.transaction.CannotCreateTransactionException: Could not open JDBC Connection for transaction; nested exception is java.sql.SQLException" />
       <item value="静态信息" />
@@ -45,12 +54,6 @@
       <item value="认证提交成功" />
       <item value="认证正在审核中" />
       <item value="该用户已经认证" />
-      <item value="提交认证" />
-      <item value="渠道" />
-      <item value="d地区" />
-      <item value="渠道名未填写" />
-      <item value="未输入省份" />
-      <item value="用户已认证登录" />
     </histories>
     <option name="languageScores">
       <map>
