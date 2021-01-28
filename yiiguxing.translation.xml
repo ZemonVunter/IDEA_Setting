@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="联系人&#10;" />
+      <item value="缩写&#10;&#10;" />
+      <item value="简称&#10;" />
+      <item value="jian'cheng" />
+      <item value="地址&#10;&#10;" />
+      <item value="address&#10;" />
+      <item value="addre&#10;" />
+      <item value="负责人&#10;" />
+      <item value="fu" />
       <item value="验证验证码&#10;&#10;" />
       <item value="验证yan'zheng'ma&#10;" />
       <item value="验证&#10;" />
@@ -45,15 +54,6 @@
       <item value="小票图片路径错误" />
       <item value="用户名称或用户id错误" />
       <item value="ticket" />
-      <item value="记录" />
-      <item value="消费记录" />
-      <item value="小票" />
-      <item value="票据" />
-      <item value="积分申请" />
-      <item value="upload" />
-      <item value="认证提交成功" />
-      <item value="认证正在审核中" />
-      <item value="该用户已经认证" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610708566334" />
+    <option name="lastTrimTime" value="1611818159134" />
   </component>
 </application>
