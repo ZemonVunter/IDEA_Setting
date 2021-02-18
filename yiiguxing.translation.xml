@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="ref" />
       <item value="联系人&#10;" />
       <item value="缩写&#10;&#10;" />
       <item value="简称&#10;" />
@@ -53,7 +54,6 @@
       <item value="申请状态" />
       <item value="小票图片路径错误" />
       <item value="用户名称或用户id错误" />
-      <item value="ticket" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611818159134" />
+    <option name="lastTrimTime" value="1613642078105" />
   </component>
 </application>
