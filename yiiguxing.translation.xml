@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Inspections for plugin properties, for example, checking PluginDescription.&#10;Inspections for illegal calls.&#10;Intentions for resolving serialization problems." />
       <item value="A group of friends went on a hedonistic trip to Thailand. Accidentally, they rape and kill a sorcerer's sister. Now, upon arriving back home to Hong Kong, they find themselves cursed by the sorcerer." />
       <item value="简介" />
       <item value="jian'jie" />
@@ -53,7 +54,6 @@
       <item value="已发放申请积分" />
       <item value="已经驳回积分申请" />
       <item value="已经发放积分" />
-      <item value="待发放积分" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616051571882" />
+    <option name="lastTrimTime" value="1616640495391" />
   </component>
 </application>
