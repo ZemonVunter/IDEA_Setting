@@ -1,15 +1,22 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="asssssS" />
+      <item value="a" />
+      <item value="dfed" />
+      <item value="dfedd" />
+      <item value="df" />
+      <item value="ssssssSSS" />
+      <item value="ssssssSSSs" />
+      <item value="s" />
       <item value="Inspections for plugin properties, for example, checking PluginDescription.&#10;Inspections for illegal calls.&#10;Intentions for resolving serialization problems." />
       <item value="A group of friends went on a hedonistic trip to Thailand. Accidentally, they rape and kill a sorcerer's sister. Now, upon arriving back home to Hong Kong, they find themselves cursed by the sorcerer." />
       <item value="简介" />
       <item value="jian'jie" />
       <item value="s'jian'jie" />
-      <item value="s" />
       <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'movieDetailsController': Unsatisfied dependency expressed through field 'movieDetailsService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'movieDetailsServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'movieDetailsMapper' defined in file [F:\FlipCommunity\target\classes\top\FlipCommunity\user\mapper\MovieDetailsMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [combaomidoumybatisplusautoconfigureMybatisPlusAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [orgspringframeworkbootautoconfigurejdbcDataSourceConfigurationHikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourcePropertiesDataSourceBeanCreationException: Failed to determine a suitable driver class" />
       <item value="Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@57b41c61]" />
       <item value="个人信息" />
@@ -47,13 +54,6 @@
       <item value="booty music" />
       <item value="booty" />
       <item value="botty" />
-      <item value="积分提交成功" />
-      <item value="全部积分明细" />
-      <item value="积分支出列表" />
-      <item value="积分收入" />
-      <item value="已发放申请积分" />
-      <item value="已经驳回积分申请" />
-      <item value="已经发放积分" />
     </histories>
     <option name="languageScores">
       <map>
