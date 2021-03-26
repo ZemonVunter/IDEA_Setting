@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="冻结" />
+      <item value="d" />
       <item value="SortStatus" />
       <item value="排序方式" />
       <item value="排序" />
@@ -52,8 +54,6 @@
       <item value="未输入区域" />
       <item value="未输入城市" />
       <item value="收入积分" />
-      <item value="支出积分" />
-      <item value="当前积分" />
     </histories>
     <option name="languageScores">
       <map>
