@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="SortStatus" />
+      <item value="排序方式" />
+      <item value="排序" />
+      <item value="排列方式" />
+      <item value="点数上限" />
+      <item value="dian上限" />
+      <item value="上限" />
+      <item value="shang'xian" />
+      <item value="s" />
       <item value="会员管理&#10;" />
       <item value="asssssS" />
       <item value="a" />
@@ -12,7 +21,6 @@
       <item value="df" />
       <item value="ssssssSSS" />
       <item value="ssssssSSSs" />
-      <item value="s" />
       <item value="Inspections for plugin properties, for example, checking PluginDescription.&#10;Inspections for illegal calls.&#10;Intentions for resolving serialization problems." />
       <item value="A group of friends went on a hedonistic trip to Thailand. Accidentally, they rape and kill a sorcerer's sister. Now, upon arriving back home to Hong Kong, they find themselves cursed by the sorcerer." />
       <item value="简介" />
@@ -46,14 +54,6 @@
       <item value="收入积分" />
       <item value="支出积分" />
       <item value="当前积分" />
-      <item value="条件" />
-      <item value="验证码发送次数限制" />
-      <item value="验证码发送次数过多" />
-      <item value="待认证" />
-      <item value="认证已经通过" />
-      <item value="认证通过" />
-      <item value="booty music" />
-      <item value="booty" />
     </histories>
     <option name="languageScores">
       <map>
