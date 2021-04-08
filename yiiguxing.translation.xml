@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="556" />
+    <option name="newTranslationDialogWidth" value="554" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="美食和景点&#10;" />
+      <item value="美食和jing'dian" />
+      <item value="美食和jing'din" />
+      <item value="mei'shi" />
+      <item value="mei'shi'e" />
       <item value="收货人姓名&#10;" />
       <item value="shou'huo'ren" />
       <item value="shouh" />
@@ -49,11 +54,6 @@
       <item value="address&#10;" />
       <item value="addre&#10;" />
       <item value="负责人&#10;" />
-      <item value="fu" />
-      <item value="验证验证码&#10;&#10;" />
-      <item value="验证yan'zheng'ma&#10;" />
-      <item value="验证&#10;" />
-      <item value="验证烟瘴吗&#10;" />
     </histories>
     <option name="languageScores">
       <map>
