@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="554" />
+    <option name="newTranslationDialogWidth" value="552" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="冻结&#10;" />
+      <item value="冻结" />
       <item value="美食和景点&#10;" />
       <item value="美食和jing'dian" />
       <item value="美食和jing'din" />
@@ -17,8 +19,6 @@
       <item value="减少&#10;&#10;&#10;" />
       <item value="减少&#10;&#10;" />
       <item value="减少&#10;" />
-      <item value="冻结&#10;" />
-      <item value="冻结" />
       <item value="d" />
       <item value="SortStatus" />
       <item value="排序方式" />
