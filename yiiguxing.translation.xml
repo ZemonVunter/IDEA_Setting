@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="548" />
+    <option name="newTranslationDialogWidth" value="546" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="区域&#10;&#10;" />
+      <item value="范围&#10;" />
+      <item value="f" />
       <item value="美景" />
       <item value="mei'jing" />
       <item value="细节&#10;" />
@@ -51,9 +54,6 @@
       <item value="ref" />
       <item value="联系人&#10;" />
       <item value="缩写&#10;&#10;" />
-      <item value="简称&#10;" />
-      <item value="jian'cheng" />
-      <item value="地址&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617852861986" />
+    <option name="lastTrimTime" value="1618306549107" />
   </component>
 </application>
