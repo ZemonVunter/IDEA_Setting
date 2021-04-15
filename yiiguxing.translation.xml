@@ -1,9 +1,20 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="546" />
+    <option name="newTranslationDialogWidth" value="542" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="Show Context Action" />
+      <item value="Show Context " />
+      <item value="Show Context" />
+      <item value="Show C" />
+      <item value="Show Cibt" />
+      <item value="Show Cib" />
+      <item value="Show " />
+      <item value="Show" />
+      <item value="S" />
+      <item value="intentions" />
+      <item value="in" />
       <item value="Learn basic shortcuts and essential features interactively - right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item.&#10;" />
       <item value="Provides advanced support for UI automation with Selenium libraries in JVM/Python languages:&#10;Highlighting and validation of XPath, CSS, JavaScript in UI testing APIs for Java/Kotlin/Groovy/Python.&#10;Project scaffolding with popular Selenium libraries.&#10;Page Object Generator.&#10;Code completion for HTML tags, attributes and CSS properties in tests.&#10;Run Selenoid action in browsers.json&#10;Line markers and navigation to issue trackers and TMS cases for Allure Framework and Serenity BDD.&#10;Code completion and validation for configuration files of Selenium Grid, Selenoid and Allure Framework.&#10;Line markers with quick navigation to @Step usages in code.&#10;Find usages and code completion for @Feature, @Epic, @Story, @Owner and @Lead usages for Allure Framework." />
       <item value="区域&#10;&#10;" />
@@ -43,17 +54,6 @@
       <item value="dfed" />
       <item value="dfedd" />
       <item value="df" />
-      <item value="ssssssSSS" />
-      <item value="ssssssSSSs" />
-      <item value="Inspections for plugin properties, for example, checking PluginDescription.&#10;Inspections for illegal calls.&#10;Intentions for resolving serialization problems." />
-      <item value="A group of friends went on a hedonistic trip to Thailand. Accidentally, they rape and kill a sorcerer's sister. Now, upon arriving back home to Hong Kong, they find themselves cursed by the sorcerer." />
-      <item value="简介" />
-      <item value="jian'jie" />
-      <item value="s'jian'jie" />
-      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'movieDetailsController': Unsatisfied dependency expressed through field 'movieDetailsService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'movieDetailsServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'movieDetailsMapper' defined in file [F:\FlipCommunity\target\classes\top\FlipCommunity\user\mapper\MovieDetailsMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [combaomidoumybatisplusautoconfigureMybatisPlusAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [orgspringframeworkbootautoconfigurejdbcDataSourceConfigurationHikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourcePropertiesDataSourceBeanCreationException: Failed to determine a suitable driver class" />
-      <item value="Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@57b41c61]" />
-      <item value="个人信息" />
-      <item value="ref" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,5 +64,8 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1618306549107" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
