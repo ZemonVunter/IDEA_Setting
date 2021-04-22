@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="536" />
+    <option name="newTranslationDialogWidth" value="534" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="原数量&#10;" />
       <item value="相同&#10;" />
       <item value="s" />
       <item value="是否存在" />
@@ -53,7 +54,6 @@
       <item value="上限" />
       <item value="shang'xian" />
       <item value="会员管理&#10;" />
-      <item value="asssssS" />
     </histories>
     <option name="languageScores">
       <map>
