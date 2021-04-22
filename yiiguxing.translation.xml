@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogWidth" value="536" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="相同&#10;" />
+      <item value="s" />
+      <item value="是否存在" />
+      <item value="isExsist" />
       <item value="默认&#10;" />
       <item value="Show Context Action" />
       <item value="Show Context " />
@@ -24,7 +28,6 @@
       <item value="美景" />
       <item value="mei'jing" />
       <item value="细节&#10;" />
-      <item value="s" />
       <item value="冻结&#10;" />
       <item value="冻结" />
       <item value="美食和景点&#10;" />
@@ -51,9 +54,6 @@
       <item value="shang'xian" />
       <item value="会员管理&#10;" />
       <item value="asssssS" />
-      <item value="a" />
-      <item value="dfed" />
-      <item value="dfedd" />
     </histories>
     <option name="languageScores">
       <map>
