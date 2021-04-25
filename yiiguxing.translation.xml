@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="526" />
+    <option name="newTranslationDialogWidth" value="522" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="自由备货" />
+      <item value="寄售" />
       <item value="仓库类型" />
       <item value="ca" />
       <item value="divide" />
@@ -52,8 +54,6 @@
       <item value="d" />
       <item value="SortStatus" />
       <item value="排序方式" />
-      <item value="排序" />
-      <item value="排列方式" />
     </histories>
     <option name="languageScores">
       <map>
