@@ -1,68 +1,71 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="514" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@57b41c61]" />
-      <item value="个人信息" />
-      <item value="ref" />
-      <item value="联系人&#10;" />
-      <item value="缩写&#10;&#10;" />
-      <item value="简称&#10;" />
-      <item value="jian'cheng" />
-      <item value="地址&#10;&#10;" />
-      <item value="address&#10;" />
-      <item value="addre&#10;" />
-      <item value="负责人&#10;" />
-      <item value="fu" />
-      <item value="验证验证码&#10;&#10;" />
-      <item value="验证yan'zheng'ma&#10;" />
-      <item value="验证&#10;" />
-      <item value="验证烟瘴吗&#10;" />
-      <item value="验证养正吗&#10;" />
-      <item value="验&#10;" />
-      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'top.FlipCommunity.user.mapper.AdminMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)} 2021-01-15 19:02:31.697 INFO 14624 --- [ main] o.apache.catalina.core.StandardService : Stopping service [Tomcat]" />
-      <item value="org.springframework.transaction.CannotCreateTransactionException: Could not open JDBC Connection for transaction; nested exception is java.sql.SQLException" />
-      <item value="静态信息" />
-      <item value="前端需要的信息" />
-      <item value="未输入区域" />
-      <item value="未输入城市" />
-      <item value="收入积分" />
-      <item value="支出积分" />
-      <item value="当前积分" />
-      <item value="条件" />
-      <item value="验证码发送次数限制" />
-      <item value="验证码发送次数过多" />
-      <item value="待认证" />
-      <item value="认证已经通过" />
-      <item value="认证通过" />
-      <item value="booty music" />
-      <item value="booty" />
-      <item value="botty" />
-      <item value="积分提交成功" />
-      <item value="全部积分明细" />
-      <item value="积分支出列表" />
-      <item value="积分收入" />
-      <item value="已发放申请积分" />
-      <item value="已经驳回积分申请" />
-      <item value="已经发放积分" />
-      <item value="待发放积分" />
-      <item value="待发放" />
-      <item value="SubmitErtification" />
-      <item value="修改" />
-      <item value="xiugai" />
-      <item value="上传小票成功" />
-      <item value="申请状态" />
+      <item value="回调&#10;" />
+      <item value="s" />
+      <item value="序号&#10;" />
+      <item value="存在&#10;" />
+      <item value="仓库类型" />
+      <item value="c" />
+      <item value="自由备货" />
+      <item value="寄售" />
+      <item value="ca" />
+      <item value="divide" />
+      <item value="单身&#10;" />
+      <item value="单价&#10;" />
+      <item value="原数量&#10;" />
+      <item value="相同&#10;" />
+      <item value="是否存在" />
+      <item value="isExsist" />
+      <item value="默认&#10;" />
+      <item value="Show Context Action" />
+      <item value="Show Context " />
+      <item value="Show Context" />
+      <item value="Show C" />
+      <item value="Show Cibt" />
+      <item value="Show Cib" />
+      <item value="Show " />
+      <item value="Show" />
+      <item value="S" />
+      <item value="intentions" />
+      <item value="in" />
+      <item value="Learn basic shortcuts and essential features interactively - right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item.&#10;" />
+      <item value="Provides advanced support for UI automation with Selenium libraries in JVM/Python languages:&#10;Highlighting and validation of XPath, CSS, JavaScript in UI testing APIs for Java/Kotlin/Groovy/Python.&#10;Project scaffolding with popular Selenium libraries.&#10;Page Object Generator.&#10;Code completion for HTML tags, attributes and CSS properties in tests.&#10;Run Selenoid action in browsers.json&#10;Line markers and navigation to issue trackers and TMS cases for Allure Framework and Serenity BDD.&#10;Code completion and validation for configuration files of Selenium Grid, Selenoid and Allure Framework.&#10;Line markers with quick navigation to @Step usages in code.&#10;Find usages and code completion for @Feature, @Epic, @Story, @Owner and @Lead usages for Allure Framework." />
+      <item value="区域&#10;&#10;" />
+      <item value="范围&#10;" />
+      <item value="f" />
+      <item value="美景" />
+      <item value="mei'jing" />
+      <item value="细节&#10;" />
+      <item value="冻结&#10;" />
+      <item value="冻结" />
+      <item value="美食和景点&#10;" />
+      <item value="美食和jing'dian" />
+      <item value="美食和jing'din" />
+      <item value="mei'shi" />
+      <item value="mei'shi'e" />
+      <item value="收货人姓名&#10;" />
+      <item value="shou'huo'ren" />
+      <item value="shouh" />
+      <item value="reduce" />
+      <item value="减小&#10;&#10;&#10;" />
+      <item value="减少&#10;&#10;&#10;" />
+      <item value="减少&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614158092991" />
+    <option name="lastTrimTime" value="1619750736467" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
