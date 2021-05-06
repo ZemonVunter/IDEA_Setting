@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="514" />
+    <option name="newTranslationDialogWidth" value="512" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="原单调拨" />
+      <item value="yuan'l" />
       <item value="回调&#10;" />
       <item value="s" />
       <item value="序号&#10;" />
@@ -52,8 +54,6 @@
       <item value="shouh" />
       <item value="reduce" />
       <item value="减小&#10;&#10;&#10;" />
-      <item value="减少&#10;&#10;&#10;" />
-      <item value="减少&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
