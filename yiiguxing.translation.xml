@@ -1,13 +1,45 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="548" />
+    <option name="newTranslationDialogWidth" value="514" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="回调&#10;" />
+      <item value="s" />
+      <item value="序号&#10;" />
+      <item value="存在&#10;" />
+      <item value="仓库类型" />
+      <item value="c" />
+      <item value="自由备货" />
+      <item value="寄售" />
+      <item value="ca" />
+      <item value="divide" />
+      <item value="单身&#10;" />
+      <item value="单价&#10;" />
+      <item value="原数量&#10;" />
+      <item value="相同&#10;" />
+      <item value="是否存在" />
+      <item value="isExsist" />
+      <item value="默认&#10;" />
+      <item value="Show Context Action" />
+      <item value="Show Context " />
+      <item value="Show Context" />
+      <item value="Show C" />
+      <item value="Show Cibt" />
+      <item value="Show Cib" />
+      <item value="Show " />
+      <item value="Show" />
+      <item value="S" />
+      <item value="intentions" />
+      <item value="in" />
+      <item value="Learn basic shortcuts and essential features interactively - right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item.&#10;" />
+      <item value="Provides advanced support for UI automation with Selenium libraries in JVM/Python languages:&#10;Highlighting and validation of XPath, CSS, JavaScript in UI testing APIs for Java/Kotlin/Groovy/Python.&#10;Project scaffolding with popular Selenium libraries.&#10;Page Object Generator.&#10;Code completion for HTML tags, attributes and CSS properties in tests.&#10;Run Selenoid action in browsers.json&#10;Line markers and navigation to issue trackers and TMS cases for Allure Framework and Serenity BDD.&#10;Code completion and validation for configuration files of Selenium Grid, Selenoid and Allure Framework.&#10;Line markers with quick navigation to @Step usages in code.&#10;Find usages and code completion for @Feature, @Epic, @Story, @Owner and @Lead usages for Allure Framework." />
+      <item value="区域&#10;&#10;" />
+      <item value="范围&#10;" />
+      <item value="f" />
       <item value="美景" />
       <item value="mei'jing" />
       <item value="细节&#10;" />
-      <item value="s" />
       <item value="冻结&#10;" />
       <item value="冻结" />
       <item value="美食和景点&#10;" />
@@ -22,38 +54,6 @@
       <item value="减小&#10;&#10;&#10;" />
       <item value="减少&#10;&#10;&#10;" />
       <item value="减少&#10;&#10;" />
-      <item value="减少&#10;" />
-      <item value="d" />
-      <item value="SortStatus" />
-      <item value="排序方式" />
-      <item value="排序" />
-      <item value="排列方式" />
-      <item value="点数上限" />
-      <item value="dian上限" />
-      <item value="上限" />
-      <item value="shang'xian" />
-      <item value="会员管理&#10;" />
-      <item value="asssssS" />
-      <item value="a" />
-      <item value="dfed" />
-      <item value="dfedd" />
-      <item value="df" />
-      <item value="ssssssSSS" />
-      <item value="ssssssSSSs" />
-      <item value="Inspections for plugin properties, for example, checking PluginDescription.&#10;Inspections for illegal calls.&#10;Intentions for resolving serialization problems." />
-      <item value="A group of friends went on a hedonistic trip to Thailand. Accidentally, they rape and kill a sorcerer's sister. Now, upon arriving back home to Hong Kong, they find themselves cursed by the sorcerer." />
-      <item value="简介" />
-      <item value="jian'jie" />
-      <item value="s'jian'jie" />
-      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'movieDetailsController': Unsatisfied dependency expressed through field 'movieDetailsService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'movieDetailsServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'movieDetailsMapper' defined in file [F:\FlipCommunity\target\classes\top\FlipCommunity\user\mapper\MovieDetailsMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [combaomidoumybatisplusautoconfigureMybatisPlusAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [orgspringframeworkbootautoconfigurejdbcDataSourceConfigurationHikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourcePropertiesDataSourceBeanCreationException: Failed to determine a suitable driver class" />
-      <item value="Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@57b41c61]" />
-      <item value="个人信息" />
-      <item value="ref" />
-      <item value="联系人&#10;" />
-      <item value="缩写&#10;&#10;" />
-      <item value="简称&#10;" />
-      <item value="jian'cheng" />
-      <item value="地址&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,9 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617852861986" />
+    <option name="lastTrimTime" value="1619750736467" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
