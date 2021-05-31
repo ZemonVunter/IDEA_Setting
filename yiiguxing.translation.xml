@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="496" />
+    <option name="newTranslationDialogWidth" value="494" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="关注人&#10;" />
       <item value="新增或更新电子围栏区域信息" />
       <item value="绘画&#10;" />
       <item value="15029278125" />
@@ -53,12 +54,11 @@
       <item value="冻结" />
       <item value="美食和景点&#10;" />
       <item value="美食和jing'dian" />
-      <item value="美食和jing'din" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
