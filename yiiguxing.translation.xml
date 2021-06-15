@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="490" />
+    <option name="newTranslationDialogWidth" value="488" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="会员热力图" />
+      <item value="会员操作热力图" />
+      <item value="会员擦欧总热力图" />
+      <item value="热力图" />
+      <item value="re" />
+      <item value="r" />
       <item value="点赞人&#10;" />
       <item value="点赞&#10;" />
       <item value="点赞" />
@@ -48,17 +54,11 @@
       <item value="Learn basic shortcuts and essential features interactively - right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item.&#10;" />
       <item value="Provides advanced support for UI automation with Selenium libraries in JVM/Python languages:&#10;Highlighting and validation of XPath, CSS, JavaScript in UI testing APIs for Java/Kotlin/Groovy/Python.&#10;Project scaffolding with popular Selenium libraries.&#10;Page Object Generator.&#10;Code completion for HTML tags, attributes and CSS properties in tests.&#10;Run Selenoid action in browsers.json&#10;Line markers and navigation to issue trackers and TMS cases for Allure Framework and Serenity BDD.&#10;Code completion and validation for configuration files of Selenium Grid, Selenoid and Allure Framework.&#10;Line markers with quick navigation to @Step usages in code.&#10;Find usages and code completion for @Feature, @Epic, @Story, @Owner and @Lead usages for Allure Framework." />
       <item value="区域&#10;&#10;" />
-      <item value="范围&#10;" />
-      <item value="f" />
-      <item value="美景" />
-      <item value="mei'jing" />
-      <item value="细节&#10;" />
-      <item value="冻结&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
       </map>
     </option>
   </component>
