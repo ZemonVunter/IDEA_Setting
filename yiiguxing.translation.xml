@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="484" />
+    <option name="newTranslationDialogWidth" value="482" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="定位&#10;" />
       <item value="热力图&#10;" />
       <item value="   /**&#10;     * 列表&#10;     */&#10;    @PostMapping&#10;    public ResponseEntity&lt;CmdResponse&gt; list(@RequestBody ZwMemberLogDTO dto) {&#10;        CmdResponse response = new CmdResponse();&#10;        response.setData(zwMemberLogService.listPage(dto));&#10;        return ResponseEntity.ok(response);&#10;    }" />
       <item value="会员热力图" />
@@ -53,12 +54,11 @@
       <item value="S" />
       <item value="intentions" />
       <item value="in" />
-      <item value="Learn basic shortcuts and essential features interactively - right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
       </map>
     </option>
   </component>
