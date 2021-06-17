@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="476" />
+    <option name="newTranslationDialogWidth" value="472" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="提交&#10;" />
+      <item value="提交" />
       <item value="原来的id&#10;" />
       <item value="原来的" />
       <item value="商户&#10;" />
@@ -52,8 +54,6 @@
       <item value="Show Context" />
       <item value="Show C" />
       <item value="Show Cibt" />
-      <item value="Show Cib" />
-      <item value="Show " />
     </histories>
     <option name="languageScores">
       <map>
