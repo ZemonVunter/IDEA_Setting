@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="472" />
+    <option name="newTranslationDialogWidth" value="470" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="重复" />
+      <item value="是否重复" />
+      <item value="s" />
       <item value="提交&#10;" />
       <item value="提交" />
       <item value="原来的id&#10;" />
@@ -33,7 +36,6 @@
       <item value="入库审核&#10;" />
       <item value="原单调拨" />
       <item value="yuan'l" />
-      <item value="s" />
       <item value="序号&#10;" />
       <item value="存在&#10;" />
       <item value="仓库类型" />
@@ -52,13 +54,11 @@
       <item value="Show Context Action" />
       <item value="Show Context " />
       <item value="Show Context" />
-      <item value="Show C" />
-      <item value="Show Cibt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
       </map>
     </option>
   </component>
