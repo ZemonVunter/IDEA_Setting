@@ -1,11 +1,41 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="514" />
+    <option name="newTranslationDialogWidth" value="470" />
     <option name="newTranslationDialogX" value="568" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
-      <item value="回调&#10;" />
+      <item value="重复" />
+      <item value="是否重复" />
       <item value="s" />
+      <item value="提交&#10;" />
+      <item value="提交" />
+      <item value="原来的id&#10;" />
+      <item value="原来的" />
+      <item value="商户&#10;" />
+      <item value="日期范围" />
+      <item value="定位&#10;" />
+      <item value="热力图&#10;" />
+      <item value="   /**&#10;     * 列表&#10;     */&#10;    @PostMapping&#10;    public ResponseEntity&lt;CmdResponse&gt; list(@RequestBody ZwMemberLogDTO dto) {&#10;        CmdResponse response = new CmdResponse();&#10;        response.setData(zwMemberLogService.listPage(dto));&#10;        return ResponseEntity.ok(response);&#10;    }" />
+      <item value="会员热力图" />
+      <item value="会员操作热力图" />
+      <item value="会员擦欧总热力图" />
+      <item value="热力图" />
+      <item value="re" />
+      <item value="r" />
+      <item value="点赞人&#10;" />
+      <item value="点赞&#10;" />
+      <item value="点赞" />
+      <item value="关注人&#10;" />
+      <item value="新增或更新电子围栏区域信息" />
+      <item value="绘画&#10;" />
+      <item value="15029278125" />
+      <item value="工具信息&#10;" />
+      <item value="备货&#10;" />
+      <item value="备货单&#10;" />
+      <item value="回调&#10;" />
+      <item value="入库审核&#10;" />
+      <item value="原单调拨" />
+      <item value="yuan'l" />
       <item value="序号&#10;" />
       <item value="存在&#10;" />
       <item value="仓库类型" />
@@ -24,46 +54,16 @@
       <item value="Show Context Action" />
       <item value="Show Context " />
       <item value="Show Context" />
-      <item value="Show C" />
-      <item value="Show Cibt" />
-      <item value="Show Cib" />
-      <item value="Show " />
-      <item value="Show" />
-      <item value="S" />
-      <item value="intentions" />
-      <item value="in" />
-      <item value="Learn basic shortcuts and essential features interactively - right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item.&#10;" />
-      <item value="Provides advanced support for UI automation with Selenium libraries in JVM/Python languages:&#10;Highlighting and validation of XPath, CSS, JavaScript in UI testing APIs for Java/Kotlin/Groovy/Python.&#10;Project scaffolding with popular Selenium libraries.&#10;Page Object Generator.&#10;Code completion for HTML tags, attributes and CSS properties in tests.&#10;Run Selenoid action in browsers.json&#10;Line markers and navigation to issue trackers and TMS cases for Allure Framework and Serenity BDD.&#10;Code completion and validation for configuration files of Selenium Grid, Selenoid and Allure Framework.&#10;Line markers with quick navigation to @Step usages in code.&#10;Find usages and code completion for @Feature, @Epic, @Story, @Owner and @Lead usages for Allure Framework." />
-      <item value="区域&#10;&#10;" />
-      <item value="范围&#10;" />
-      <item value="f" />
-      <item value="美景" />
-      <item value="mei'jing" />
-      <item value="细节&#10;" />
-      <item value="冻结&#10;" />
-      <item value="冻结" />
-      <item value="美食和景点&#10;" />
-      <item value="美食和jing'dian" />
-      <item value="美食和jing'din" />
-      <item value="mei'shi" />
-      <item value="mei'shi'e" />
-      <item value="收货人姓名&#10;" />
-      <item value="shou'huo'ren" />
-      <item value="shouh" />
-      <item value="reduce" />
-      <item value="减小&#10;&#10;&#10;" />
-      <item value="减少&#10;&#10;&#10;" />
-      <item value="减少&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619750736467" />
+    <option name="lastTrimTime" value="1624263577992" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
