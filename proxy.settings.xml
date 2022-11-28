@@ -4,5 +4,6 @@
     <option name="PROXY_HOST" value="127.0.0.1" />
     <option name="PROXY_PORT" value="7890" />
     <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="http://account.jetbrains.com" />
   </component>
 </application>
